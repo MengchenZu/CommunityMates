@@ -1,0 +1,112 @@
+The first two lines are the two correlated variable:
+The 2 * 2 matrix is the 2 * 2 chi square form
+The last number is the chi square result:
+If the result is larger than 3.84, the two variables are related with each other
+
+
+
+varible1: When time did the volunteering take place?-Morning
+varible2: Why did you participate in volunteering-Gain professional and practical experiences for future jobs.
+2 * 2 chi-square table:
+28 14 
+7 11 
+Chi-square result:4.0
+
+varible1: When time did the volunteering take place?-Evening
+varible2: Why did you participate in volunteering-Helping out my local community.
+2 * 2 chi-square table:
+33 8 
+10 9 
+Chi-square result:4.961532990662904
+
+varible1: When time did the volunteering take place?-Evening
+varible2: What cause were you volunteering for?-Students' society or Association
+2 * 2 chi-square table:
+22 19 
+4 15 
+Chi-square result:5.621199007893865
+
+varible1: When time did the volunteering take place?-Evening
+varible2: "Where did you hear about this organisation?-Social Media (Facebook. Instagram)"
+2 * 2 chi-square table:
+33 8 
+7 12 
+Chi-square result:11.129653401797178
+
+varible1: What day did the volunteering take place?-Weekdays
+varible2: Why did you participate in volunteering-Gain professional and practical experiences for future jobs.
+2 * 2 chi-square table:
+15 3 
+20 22 
+Chi-square result:6.612244897959185
+
+varible1: What day did the volunteering take place?-Weekdays
+varible2: Did the volunteering organisation that you joined relate to your academic background?
+2 * 2 chi-square table:
+11 7 
+14 28 
+Chi-square result:4.0
+
+varible1: What day did the volunteering take place?-Weekends
+varible2: Why did you participate in volunteering-Volunteering is interesting and I enjoy it.
+2 * 2 chi-square table:
+27 7 
+14 12 
+Chi-square result:4.450188488548378
+
+varible1: Why did you participate in volunteering-Helping out my local community.
+varible2: Where did you hear about this organisation?-Friends
+2 * 2 chi-square table:
+28 15 
+6 11 
+Chi-square result:4.412600355305755
+
+varible1: "Why did you participate in volunteering-Developing myself as a person. increasing self-esteem and becoming more well-rounded."
+varible2: Where did you hear about this organisation?-Campus stalls (Market Day)
+2 * 2 chi-square table:
+34 6 
+10 10 
+Chi-square result:8.352272727272728
+
+varible1: Why did you participate in volunteering-Want to expand social circles.
+varible2: What cause were you volunteering for?-Students' society or Association
+2 * 2 chi-square table:
+24 23 
+2 11 
+Chi-square result:5.279232176315069
+
+varible1: Why did you participate in volunteering-Want to expand social circles.
+varible2: Where did you hear about this organisation?-Friends
+2 * 2 chi-square table:
+30 17 
+4 9 
+Chi-square result:4.532736927076003
+
+varible1: Why did you participate in volunteering-Gain professional and practical experiences for future jobs.
+varible2: Where did you hear about this organisation?-Campus stalls (Market Day)
+2 * 2 chi-square table:
+30 5 
+14 11 
+Chi-square result:6.5844155844155825
+
+varible1: Why did you participate in volunteering-Gain professional and practical experiences for future jobs.
+varible2: Did the volunteering organisation that you joined relate to your academic background?
+2 * 2 chi-square table:
+22 13 
+3 22 
+Chi-square result:15.51869387755102
+
+varible1: What cause were you volunteering for?-Students' society or Association
+varible2: Where did you hear about this organisation?-Campus stalls (Market Day)
+2 * 2 chi-square table:
+23 3 
+21 13 
+Chi-square result:5.369703825586179
+
+varible1: What cause were you volunteering for?-Students' society or Association
+varible2: "Where did you hear about this organisation?-Social Media (Facebook. Instagram)"
+2 * 2 chi-square table:
+21 5 
+19 15 
+Chi-square result:4.106334841628959
+
